@@ -1,0 +1,11 @@
+{
+  "product": "new-dentists",
+  "site": "https://new-dentists.vercel.app",
+  "price_usd": 5,
+  "launch": 1792195200,
+  "name": "New Twin Cities Dentists: the full list",
+  "short": "New Twin Cities Dentists",
+  "thing": "full list",
+  "description": "Every dentist and dental practice that got its first NPI in the seven-county Twin Cities metro in the last twelve months, with practice address, phone and the owner or authorized official.",
+  "line": "The full list, with every office's address, phone and owner, newest first, plus the spreadsheet, is $5, once."
+}
